@@ -27,7 +27,7 @@ Te creamos tu pagina
 <body style="background-color: black;"> 
 </body>
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -48,7 +48,7 @@ Te creamos tu pagina
 
 
 <center>
-    <!DOCTYPE html>
+
     <html lang="es">
     <head>
         <meta charset="UTF-8">
