@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
  
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
