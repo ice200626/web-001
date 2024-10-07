@@ -50,36 +50,6 @@ Te creamos tu pagina
 </html>
 
 
-<center>
-
-    <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Botón con Hipervínculo</title>
-        <style>
-            .boton {
-                display: inline-block;
-                padding: 10px 20px;
-                font-size: 16px;
-                color: rgb(0, 0, 0);
-                background-color: #ffffff;
-                text-align: center;
-                text-decoration: none;
-                border-radius: 5px;
-            }
-            .boton:hover {
-                background-color: #0056b3;
-            }
-        </style>
-    </head>
-    <body>
-        <a href="https://ice200626.github.io/web-002/" class="boton">entrar</a>
-    </body>
-    </html>
-    </center>
-
-
 
 
 
