@@ -88,7 +88,7 @@ Te creamos tu pagina
 
 
 
-<div align="center"><a href="file:///D:/monografia%20programa/web/02.html"><img src="gif 02.gif"   alt="Imagen" width="600" height="300"></a>
+<div align="center"><a href="https://ice200626.github.io/web-002/#"><img src="gif 02.gif"   alt="Imagen" width="600" height="300"></a>
 
 
 
