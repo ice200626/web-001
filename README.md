@@ -38,7 +38,7 @@ Te creamos tu pagina
     <title>Imagen de Fondo</title>
     <style>
         body {
-            background-image: url('fondo.jpg');
+            background-image: url('fondo 002');
             background-repeat: no-repeat;
             background-size: cover;
         }
