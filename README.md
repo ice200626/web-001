@@ -58,7 +58,7 @@ Te creamos tu pagina
 
 
 
-<div align="center"><a href="https://ice200626.github.io/web-002/#"><img src=".gif"   alt="Imagen" width="600" height="300"></a>
+<div align="center"><a href="https://ice200626.github.io/web-002/#"><img src="BIENVENIDO(1).gif"   alt="Imagen" width="600" height="300"></a>
 
 
 
@@ -77,7 +77,6 @@ CREA CON LA PLATAFORMA MAS
 
 
 
-<img src="gif 03.gif" alt="gif" width="350" height="300"><center>
 
 
 
