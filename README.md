@@ -58,7 +58,7 @@ Te creamos tu pagina
 
 
 
-<div align="center"><a href="https://ice200626.github.io/web-002/#"><img src="BIENVENIDO(1).gif"   alt="Imagen" width="600" height="300"></a>
+<div align="center"><a href="https://ice200626.github.io/web-002/#"><img src="boton 001.gif"   alt="Imagen" width="600" height="300"></a>
 
 
 
